@@ -7,8 +7,10 @@ This project analyzes raw transaction logs from an anonymous **E-commerce Compan
 - 📄 [Project Overview](#-project-overview)  
 - 📊 [Business Analysis Report (PDF)](./E-Commerce_Business_Analysis.pdf)  
 - 📈 [Google Spreadsheet Analysis](#) *(https://docs.google.com/spreadsheets/d/1kRss89jqYqRXL8d7n5U06Xsj3z6QUwYKrlWFm-f7vRM/edit?gid=38637670#gid=38637670)*  
-- 📂 [Raw Data & Cleaning Process](#) *(https://docs.google.com/spreadsheets/d/1kRss89jqYqRXL8d7n5U06Xsj3z6QUwYKrlWFm-f7vRM/edit?gid=1419606300#gid=1419606300)*  
+- 📂 [Raw Data & Cleaning Process](#) 🔗 **[Project Data & Analysis](https://docs.google.com/spreadsheets/d/1kRss89jqYqRXL8d7n5U06Xsj3z6QUwYKrlWFm-f7vRM/edit?gid=488673513#gid=488673513)** – Explore the dataset and analysis in Google Sheets.
 - 📊 [Key Insights & Visuals](#key-insights--visuals)  
+
+
 
 ## 🎯 Project Objectives  
 🔹 **Understand customer behavior** – Analyze transactions, browsing patterns, and retention rates.  
