@@ -1,38 +1,17 @@
-# 🛒 E-commerce Company Analysis  
-
-## 📌 Project Overview  
-This project analyzes raw transaction logs from an anonymous **E-commerce Company**, transforming event data into **meaningful business metrics**. The goal is to uncover insights into **customer behavior, sales performance, and product trends** to support data-driven decision-making.  
-
-## 📑 Table of Contents for Repository Artifacts  
-- 📄 [Project Overview](#-project-overview)  
-- 📊 [Business Analysis Report (PDF)](./E-Commerce_Business_Analysis.pdf)  
-- 📈 [Google Spreadsheet Analysis](#) *(https://docs.google.com/spreadsheets/d/1kRss89jqYqRXL8d7n5U06Xsj3z6QUwYKrlWFm-f7vRM/edit?gid=38637670#gid=38637670)*  
-- 📂 [Raw Data & Cleaning Process](#) 🔗 **[Project Data & Analysis](https://docs.google.com/spreadsheets/d/1kRss89jqYqRXL8d7n5U06Xsj3z6QUwYKrlWFm-f7vRM/edit?gid=488673513#gid=488673513)** – Explore the dataset and analysis in Google Sheets.
-- 📊 [Key Insights & Visuals](#key-insights--visuals)  
+# TripleTen_projects
+Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 
-
-## 🎯 Project Objectives  
-🔹 **Understand customer behavior** – Analyze transactions, browsing patterns, and retention rates.  
-🔹 **Evaluate sales performance** – Identify revenue trends, best-selling products, and seasonal variations.  
-🔹 **Optimize business strategies** – Provide recommendations based on data-driven insights.  
-
-## 🛠️ Tools & Technologies Used  
-- **SQL** – Data extraction and transformation.  
-- **Python (Pandas, Matplotlib, Seaborn)** – Data analysis and visualization.  
-- **Google Sheets** – Exploratory data analysis and calculations.  
-- **Power BI / Tableau** – Dashboard creation and reporting.  
-
-## 📊 Key Insights & Visuals  
-Here is a snapshot of the **E-commerce Dashboard** showing key trends:  
-
-![E-commerce Dashboard](<img width="1334" alt="dashboard" src="https://github.com/user-attachments/assets/80ebb025-2b6a-4366-8ae6-7d72e719c207" />
-)  
-
-
-## 🔗 Additional Resources  
-- [E-commerce Dataset](#) *(https://docs.google.com/spreadsheets/d/1kRss89jqYqRXL8d7n5U06Xsj3z6QUwYKrlWFm-f7vRM/edit?gid=488673513#gid=488673513)*  
-
+| Project number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 1 | Fresh Beats (Nov 2024) | Status Report to present business recommendations via Word Report based on a Spreadsheet Analysis done by senior team members. |
+| 2 | Manhattan Vacation Rental Market (Dec 2024 )| Market Analysis to consult an anonymous short-term rental company on what types of properties they should be targeting based on Airbnb listings and to present the findings via Spreadsheets. |
+| 3 | Zuber (Jan 2025) | Demand Analysis Consult for the rideshare company Zuber to understand passenger preferences and the impact of external factors on rides via SQL database. |
+| 4 | E-commerce Company (Jan 2025) | E-Commerce Analysis to analyze raw transaction logs for an anonymous E-commerce company and present business analytical findings via Spreadsheets. |
+| 5 | SuperStore Consult (Feb 2025) | Operational Review Analysis to consult SuperStore's profits to avoid bankruptcy via Tableau. |
+| 6 | SuperStore Returns ( Feb 2025)  | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
+| 7 | Shopify (Mar 2025 )| Platform Analysis on the landscape of the Shopify App platform finding KPIs that play into its success via Power BI. |
+| 8 | Zomato Feb2024 ( Mar 2025)  | Customer Analysis Segmentation for Zomato restaurants via Power BI. |
 
   
 
