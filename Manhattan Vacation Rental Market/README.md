@@ -1,4 +1,4 @@
-## 🏙️ Project 2: Manhattan Vacation Rental Market  
+## 🏙️ Project : Manhattan Vacation Rental Market Analysis 
 **TripleTen Business Intelligence Analytics Program**
 
 This was the Part2 of First project I completed as part of the TripleTen Business Intelligence Analytics Program. The goal was to apply advanced spreadsheet techniques to analyze Airbnb listings in Manhattan, NYC and provide recommendations to a client looking to invest in short-term vacation rental properties.
