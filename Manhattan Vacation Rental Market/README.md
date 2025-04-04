@@ -44,8 +44,8 @@ Analyzed bedroom configurations by area:
 - 🔗 View the spreadsheet [HERE](https://docs.google.com/spreadsheets/d/1fzMvC_hOuPhw3M9lAuoQ4riaEarYqiBYecJpq-kF7Aw/edit?gid=255738748#gid=255738748)
 
 
-- ![Manhattan Vacation Rentals]<img 
-  width="1221" alt="Manhattan_rental" src="https://github.com/user-attachments/assets/d5c3c904-000e-48bb-8ef5-586711ab25fb" width="600"/>
+- ![Manhattan Vacation Rentals]<img width="1176" alt="Manhattan_rental" src="https://github.com/user-attachments/assets/d6a629da-f7c9-4534-b294-1d78996a5162" />
+ width="600"/>
   
 
 
