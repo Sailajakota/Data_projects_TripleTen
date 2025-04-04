@@ -1,7 +1,7 @@
-## 🚖 Project 3: Zuber - Rideshare Demand Analysis  
+## 🚖 Project using SQL : Zuber - Rideshare Demand Analysis  
 **TripleTen Business Intelligence Analytics Program**  
 
-This was the third project I worked on during the TripleTen Business Intelligence Analytics Program. It was an independent project that allowed me to apply my SQL skills. The goal was to analyze rideshare data and identify patterns related to passenger preferences and the impact of external factors, such as weather, on ride durations.
+This was the project I worked on during the TripleTen Business Intelligence Analytics Program. It was an independent project that allowed me to apply my SQL skills. The goal was to analyze rideshare data and identify patterns related to passenger preferences and the impact of external factors, such as weather, on ride durations.
 
 ---
 <img width="962" alt="Zuber" src="https://github.com/user-attachments/assets/6b1c1426-ec03-454b-8ee1-d90c90bc73c2" />
