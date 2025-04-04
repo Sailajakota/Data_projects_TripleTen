@@ -1,4 +1,4 @@
-# Shopify using PowerBI 📊
+# Shopify App Analysis using PowerBI 📊
 
 This is the sixth project I completed as part of the **TripleTen Business Intelligence Analytics Program**.  
 It was an independent project designed to showcase my skills in **Power BI** through real-world data exploration and storytelling.
@@ -24,6 +24,13 @@ The final deliverable was a **3-page Power BI dashboard** that includes:
 1. **App Store Landscape**: Overview of app performance using KPIs and category-based visuals.
 2. **Review Insights**: Trends in ratings, helpfulness, and developer responses.
 3. **Developer Analysis**: Developer behavior across reviews and overall app performance.
+
+   
+![P2_Q2](https://github.com/user-attachments/assets/bc67785e-a481-4e0b-9706-90aadc3f238a)
+
+
+![Dashboard png](https://github.com/user-attachments/assets/3b5a3613-d3ef-4d1a-906e-f97a3a778623)
+
 
 ---
 
