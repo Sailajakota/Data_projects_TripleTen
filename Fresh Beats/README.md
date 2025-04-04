@@ -17,8 +17,8 @@ The dataset provided by **TripleTen** consisted of a **Google Spreadsheet** with
 - **`number_of_users`** – **Total number of users** per category.  
 - **`tracks_listened`** – **Total music plays** per category.  
 
-![Fresh Beats Analysis](<img width="688" alt="Fresh_beats" src="https://github.com/user-attachments/assets/77cd50eb-3c80-45f6-9803-c2ad1a24105c" />
-)
+![Fresh Beats Analysis] <img src="<img width="688" alt="Fresh_beats" src="https://github.com/user-attachments/assets/d68eeedd-fc4e-41be-b76f-bc23f4c90b6b" />
+" alt="Fresh Beats Analysis" width="600"/>
 
 🔗 **Google Sheet Analysis report can be found [HERE](https://docs.google.com/spreadsheets/d/1NrnfW2QlodKv1xaxMJwaKr0Idu-vTN-zd8q6B5gWmA0/edit?gid=1745210972#gid=1745210972)**  
 
